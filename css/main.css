@@ -17,11 +17,17 @@ html {
   box-sizing: inherit;
 }
 
+h2 {
+  text-align: center;
+}
+
 body {
   margin: 0;
 }
 
 li {
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-between;
+  display: flex;
+  padding: .5rem 1rem .6rem;
 }
