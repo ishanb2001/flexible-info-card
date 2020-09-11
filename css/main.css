@@ -31,3 +31,7 @@ li {
   display: flex;
   padding: .5rem 1rem .6rem;
 }
+
+img {
+  width: 5em;
+}
