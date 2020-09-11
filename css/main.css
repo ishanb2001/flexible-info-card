@@ -25,21 +25,19 @@ li {
   display: flex;
 }
 
- img {
+img {
   display: block;
   width: 5rem;
   margin: 1rem;
 }
 
-  a {
+a {
   padding: .5rem 1rem .6rem;
   background-color: #444;
-  width: 5rem;
-  margin: 4rem;
   color: #fff;
   text-decoration: none;
 }
 
-hgroup{
+hgroup {
   width: 16rem;
 }
